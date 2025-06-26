@@ -1,7 +1,4 @@
-/*********
-  Rui Santos
-  Complete project details at http://randomnerdtutorials.com  
-*********/
+// ESP32FAN
 
 // Load Wi-Fi library
 #include <WiFi.h>
